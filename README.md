@@ -5,7 +5,7 @@
 Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
 </div>
-
+test
 - 官网地址：https://www.spug.dev
 - 使用文档：https://www.spug.dev/docs/about-spug/
 - 更新日志：https://www.spug.dev/docs/change-log/
